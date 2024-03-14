@@ -1,7 +1,212 @@
 {
-    "users": [
-        {"id": 1, "name": "Myra"}
-    ], 
-    "albums": [],
-    "photos": []
+  "users": [
+    {
+      "id": "cd96",
+      "name": "Jack Sporer"
+    },
+    {
+      "id": "653a",
+      "name": "Robin D'Amore"
+    },
+    {
+      "id": "3b8f",
+      "name": "Hattie Grady"
+    },
+    {
+      "id": "bc37",
+      "name": "Elvira Schamberger"
+    },
+    {
+      "id": "84c0",
+      "name": "Wilma Miller"
+    },
+    {
+      "id": "9138",
+      "name": "Mr. Byron Larkin"
+    },
+    {
+      "id": "d4b0",
+      "name": "Rose Wiza"
+    },
+    {
+      "id": "56ef",
+      "name": "Gayle Hegmann MD"
+    },
+    {
+      "id": "51b4",
+      "name": "Mr. Ian Beahan"
+    },
+    {
+      "id": "117e",
+      "name": "Stella Nikolaus"
+    },
+    {
+      "id": "3470",
+      "name": "Joe Willms"
+    },
+    {
+      "id": "6a82",
+      "name": "Jon Streich"
+    },
+    {
+      "id": "77c0",
+      "name": "Christy Hilpert"
+    },
+    {
+      "id": "49a2",
+      "name": "Ms. Patricia Funk"
+    },
+    {
+      "id": "92f0",
+      "name": "Cathy Daugherty"
+    }
+  ],
+  "albums": [
+    {
+      "id": "10",
+      "title": "Hiking Trip",
+      "userId": null
+    },
+    {
+      "id": "5bbe",
+      "userId": null,
+      "title": "Refined Steel Shirt"
+    },
+    {
+      "id": "a444",
+      "userId": null,
+      "title": "Handmade Wooden Shirt"
+    },
+    {
+      "id": "550b",
+      "userId": null,
+      "title": "Handcrafted Metal Ball"
+    },
+    {
+      "id": "200c",
+      "userId": null,
+      "title": "Unbranded Steel Shoes"
+    },
+    {
+      "id": "6826",
+      "userId": null,
+      "title": "Fantastic Cotton Bacon"
+    },
+    {
+      "id": "0009",
+      "userId": null,
+      "title": "Bespoke Fresh Ball"
+    },
+    {
+      "id": "d960",
+      "userId": null,
+      "title": "Intelligent Steel Towels"
+    },
+    {
+      "id": "ae50",
+      "userId": null,
+      "title": "Gorgeous Wooden Bike"
+    },
+    {
+      "id": "c9fc",
+      "userId": null,
+      "title": "Incredible Soft Table"
+    },
+    {
+      "id": "f14d",
+      "userId": null,
+      "title": "Rustic Cotton Car"
+    },
+    {
+      "id": "f89d",
+      "userId": null,
+      "title": "Handcrafted Rubber Gloves"
+    },
+    {
+      "id": "59bb",
+      "userId": null,
+      "title": "Tasty Steel Mouse"
+    },
+    {
+      "id": "f300",
+      "userId": null,
+      "title": "Ergonomic Plastic Fish"
+    },
+    {
+      "id": "7c89",
+      "userId": null,
+      "title": "Tasty Granite Chair"
+    },
+    {
+      "id": "7f9e",
+      "userId": null,
+      "title": "Electronic Wooden Shirt"
+    },
+    {
+      "id": "cf11",
+      "userId": null,
+      "title": "Ergonomic Soft Towels"
+    },
+    {
+      "id": "a38c",
+      "userId": null,
+      "title": "Luxurious Steel Bike"
+    },
+    {
+      "id": "3b21",
+      "userId": null,
+      "title": "Recycled Metal Computer"
+    },
+    {
+      "id": "f75e",
+      "userId": null,
+      "title": "Practical Steel Soap"
+    },
+    {
+      "id": "3a1b",
+      "userId": null,
+      "title": "Small Frozen Keyboard"
+    },
+    {
+      "id": "f59f",
+      "userId": null,
+      "title": "Electronic Rubber Bike"
+    },
+    {
+      "id": "e431",
+      "userId": "cd96",
+      "title": "Handcrafted Rubber Gloves"
+    },
+    {
+      "id": "8fd5",
+      "userId": "cd96",
+      "title": "Incredible Steel Table"
+    },
+    {
+      "id": "b2ee",
+      "userId": "cd96",
+      "title": "Oriental Plastic Bike"
+    },
+    {
+      "id": "14ab",
+      "userId": "6a82",
+      "title": "Sleek Plastic Fish"
+    },
+    {
+      "id": "1dd8",
+      "userId": "6a82",
+      "title": "Fantastic Steel Soap"
+    },
+    {
+      "id": "050f",
+      "userId": "cd96",
+      "title": "Fantastic Wooden Cheese"
+    },
+    {
+      "id": "db39",
+      "userId": "92f0",
+      "title": "Recycled Fresh Keyboard"
+    }
+  ],
+  "photos": []
 }
